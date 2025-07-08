@@ -17,8 +17,7 @@ This repository provides a unified, reproducible framework for parameter-efficie
 |----------------------------|----------------------------------------------------|
 | `dp_tinybert_glue.ipynb`   | Main Colab notebook: all code for experiments      |
 | `README.md`                | This file                                          |
-| `results/`                 | (Optional) CSV/tables for accuracy/ε per method    |
-| `requirements.txt`         | (Optional) List of Python dependencies             |
+           |
 
 ## 📝 Methods Compared
 
